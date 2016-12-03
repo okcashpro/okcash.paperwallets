@@ -434,10 +434,10 @@ a.menu-toggle-btn {
   transition: all 50ms ease-in-out;
 }
 .gallery-item .overlay a {
-  color: #2a2a2a;
-  width: 32px;
+  color: #ffffff;
+  width: 70px;
   height: 32px;
-  background-color: #d3b850;
+  background-color: #083890;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -446,7 +446,7 @@ a.menu-toggle-btn {
   line-height: 32px;
   position: absolute;
   top: 50%;
-  left: 50%;
+  left: 42%;
   margin-top: -16px;
   margin-left: -16px;
 }
